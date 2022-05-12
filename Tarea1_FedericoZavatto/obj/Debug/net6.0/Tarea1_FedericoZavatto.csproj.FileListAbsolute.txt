@@ -1,0 +1,15 @@
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\bin\Debug\net6.0\Tarea1_FedericoZavatto.exe
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\bin\Debug\net6.0\Tarea1_FedericoZavatto.deps.json
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\bin\Debug\net6.0\Tarea1_FedericoZavatto.runtimeconfig.json
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\bin\Debug\net6.0\Tarea1_FedericoZavatto.dll
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\bin\Debug\net6.0\Tarea1_FedericoZavatto.pdb
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\Tarea1_FedericoZavatto.csproj.AssemblyReference.cache
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\Tarea1_FedericoZavatto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\Tarea1_FedericoZavatto.AssemblyInfoInputs.cache
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\Tarea1_FedericoZavatto.AssemblyInfo.cs
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\Tarea1_FedericoZavatto.csproj.CoreCompileInputs.cache
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\Tarea1_FedericoZavatto.dll
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\refint\Tarea1_FedericoZavatto.dll
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\Tarea1_FedericoZavatto.pdb
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\Tarea1_FedericoZavatto.genruntimeconfig.cache
+E:\Usuarios\Fede\Documents\PROGRAMACION\Curso C#\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\Tarea1_FedericoZavatto\obj\Debug\net6.0\ref\Tarea1_FedericoZavatto.dll
